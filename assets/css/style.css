@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height:100vh;
+    background:rgb(43, 38, 38);
+    color: whitesmoke
+}
+
+#area{
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+
+#logo{
+    width: 35%;
+    height:auto;
+    align-items: center;
+}
+
+
+button{
+    margin-top: 30px;
+}
+
+
+
